@@ -1,0 +1,13 @@
+@import url(../footer/__author/footer__author.css);
+@import url(../footer/__columns/footer__columns.css);
+@import url(../footer/__social-icon/footer__social-icon.css);
+
+.footer {
+  min-height: 350px;
+  background-color: #0a0a0a;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}

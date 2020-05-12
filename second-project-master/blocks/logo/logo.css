@@ -1,0 +1,7 @@
+@import url(../logo/__link/header__link.css);
+@import url(../logo/__place/logo__place_footer.css);
+@import url(../logo/__place/logo__place_header.css);
+
+.logo {
+  background-image: url(../../images/logo_place_footer.svg);
+}

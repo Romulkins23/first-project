@@ -1,0 +1,13 @@
+@import url(../khan/__author/khan__author.css);
+@import url(../khan/__title/__title.css);
+@import url(../khan/__container/khan__container.css);
+@import url(../khan/__book-container/khan__book-container.css);
+@import url(../khan/__qoute/khan__qoute.css);
+
+.khan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f2f2f2;
+  padding-top: 105px;
+}

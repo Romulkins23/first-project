@@ -1,0 +1,11 @@
+@import url(../__two-columns/__brief/description__two-columns__brief.css);
+@import url(../__two-columns/__main-text/description__two-columns__main-text.css);
+@import url(../__two-columns/__paragraph/description__two-columns__paragraph.css);
+@import url(../__two-columns/__span-accent/description__two-column__span-accent.css);
+
+.two-columns {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  justify-content: space-between;
+}

@@ -1,0 +1,12 @@
+@import url(../table/__cell/digits__table__cell.css);
+@import url(../table/__heading/digits__table__heading.css);
+@import url(../table/__text/digits__table__text.css);
+@import url(../table/__theme/table_theme_dark.css);
+
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1100px;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
