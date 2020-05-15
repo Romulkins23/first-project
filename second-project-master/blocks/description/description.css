@@ -1,4 +1,4 @@
-@import url(../description/__two-columns/description__two-columns.css);
+@import url(../two-columns/two-columns.css);
 
 .description {
   display: flex;

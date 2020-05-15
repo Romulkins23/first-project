@@ -1,6 +1,3 @@
-@import url(../__book-container/__book-pic/khan__book__conteiner__book-pic.css);
-@import url(../__book-container/__buy-link/khan__book-container__buy-link.css);
-
 .khan__book-container {
   display: flex;
   flex-direction: row;

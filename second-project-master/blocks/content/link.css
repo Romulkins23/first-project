@@ -1,0 +1,9 @@
+a:hover {
+  text-decoration: underline #2f80ed;
+  opacity: 0.5;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.5s linear;
+}

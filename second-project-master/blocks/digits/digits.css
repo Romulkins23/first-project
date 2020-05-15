@@ -1,5 +1,6 @@
-@import url(../digits/__section-title/digits__section-title.css);
-@import url(../digits/__section-subtitle/digits__section-subtitle.css);
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+@import url(../table/table.css);
 
 .digits {
   display: flex;

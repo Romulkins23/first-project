@@ -1,7 +1,11 @@
-@import url(../table/__cell/digits__table__cell.css);
-@import url(../table/__heading/digits__table__heading.css);
-@import url(../table/__text/digits__table__text.css);
+@import url(../table/__cell/table__cell.css);
+@import url(../table/__heading/table__heading.css);
+@import url(../table/__text/table__text.css);
 @import url(../table/__theme/table_theme_dark.css);
+@import url(../table/__cell/__cell_theme/table__cell_theme_dark.css);
+@import url(../table/__heading/__heading_theme/table__heading_theme_dark.css);
+@import url(../table/__text/__text_theme/table__text_theme_dark.css);
+
 
 .table {
   display: flex;

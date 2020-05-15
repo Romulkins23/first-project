@@ -1,7 +1,3 @@
-@import url(../__theme/__cell_theme/table__cell_theme_dark.css);
-@import url(../__theme/__heading_theme/table__heading_theme_dark.css);
-@import url(../__theme/__text_theme/table__text_theme_dark.css);
-
 .table_theme_dark {
   margin-bottom: 90px;
 }
